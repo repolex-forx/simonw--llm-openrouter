@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-openrouter/commit/6de4963a763f4b6625ad883f1d1a6280b12a16dd",
       "git:hexsha": "6de4963a763f4b6625ad883f1d1a6280b12a16dd",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.7.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.7.1",
+      "repolex:parsedAt": "2026-10-20T10:05:34.383093+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/llm-openrouter/commit/45e9ebeba17b0f60176422bd680fc558ad592d46",
