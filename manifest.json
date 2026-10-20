@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-openrouter",
+  "versions": [
+    {
+      "commit": "6de4963a763f4b6625ad883f1d1a6280b12a16dd",
+      "parsed_at": "2026-10-20T10:03:10.742321+00:00",
+      "tag": "0.7.1",
+      "filetree": "filetree/6de4963a763f4b6625ad883f1d1a6280b12a16dd.nq.gz",
+      "blobs": [
+        "blob/ffe2198ad590aeb2984ba775aa246cd45448d0a2.nq.gz",
+        "blob/d1d4c888b6d56db9ca9903885ea9e0fc07c23985.nq.gz",
+        "blob/e0438b1dfa11fc2a6b043ead453d397cda939210.nq.gz",
+        "blob/f8bbcd3e9c21d5f7bccc390e7d3e0e95478b4b5b.nq.gz",
+        "blob/0ebffaccdcd93a9e1781a60b107fc8bd51e6c423.nq.gz",
+        "blob/89e9c9a9c5d365fce04cc48b5daf81c6da699d47.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/5a6a5da1dd63aca82430ac2974d5cfccbb8bfba5.nq.gz",
+        "blob/9ac7d35b56a7e4f42dd61e6b947717d9296f0e76.nq.gz",
+        "blob/4b74c60ac5377281f78ac0a6fae82218a9458c2e.nq.gz",
+        "blob/9b55ff8ec85c4ffde52ea81b72838ca38a4360ec.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/0343062ec5c3c46247a8353f9352a3a4724246bf.nq.gz",
+        "blob/10737babd393ebf06ca5188da72df43630ddc503.nq.gz",
+        "blob/680a31a39eee9bfe03d40b114c4e01053258dc1c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
